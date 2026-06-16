@@ -1,2 +1,25 @@
-# 8e172767-cybersecurity-meeting-scheduler-and-note
-Professional meeting scheduler and notes organizer built for cybersecurity operations and growth.
+# Cybersecurity Meeting Scheduler and Notes Organizer
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/28E5kD3aL3o89JK33md003k)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/28E5kD3aL3o89JK33md003k)
+
